@@ -1,4 +1,4 @@
-<img src="<iframe src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjVkYjMxZmNjOGQxYzJlMDIzZmZkNjNjNjgwOGY4NjdlNWU5MzkzZCZjdD1n/B6IBrYTyvo1UJOXF9u/giphy.gif" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-xray-B6IBrYTyvo1UJOXF9u">via GIPHY</a></p>" align="left" style="width: 100%" />  
+<img src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" align="left" style="width: 100%" />  
   
 
 ### <div align="center">Desarrolladora de software 👩‍💻  con un año de experiencia en HTML, CSS, JavaScript, Python y PHP, apasionada por crear soluciones innovadoras y eficientes.🚀 </div>  
