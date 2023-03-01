@@ -1,4 +1,6 @@
-<div style="text-align:center;">
+<div style=" display: flex;
+    justify-content: center;
+    align-items: center;">
   <img src="https://media.giphy.com/media/bCEGJKTfuUnja/giphy.gif" style="width:100%;" />
 </div>
   <br>
