@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" align="center" style="width: 100%" />  
+<img src="https://media.giphy.com/media/bCEGJKTfuUnja/giphy.gif" align="center" style="width: 100%" />  
   <br>
 
 ### <div align="center">Desarrolladora de software 👩‍💻  con un año de experiencia en HTML, CSS, JavaScript, Python y PHP, apasionada por crear soluciones innovadoras y eficientes.🚀 </div>  
