@@ -19,7 +19,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Mis Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -52,7 +52,7 @@
 <br/>  
 
 
-## Connect with me  
+## Conectate conmigo  
 <div align="center">
 <a href="https://linkedin.com/in/yeniffer-palomino-vargas-97bb43179" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
