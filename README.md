@@ -1,5 +1,5 @@
 <img src="https://media.giphy.com/media/B6IBrYTyvo1UJOXF9u/giphy.gif" align="left" style="width: 100%" />  
-  
+  <br>
 
 ### <div align="center">Desarrolladora de software 👩‍💻  con un año de experiencia en HTML, CSS, JavaScript, Python y PHP, apasionada por crear soluciones innovadoras y eficientes.🚀 </div>  
   
